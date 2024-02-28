@@ -6,10 +6,10 @@
 ![](https://lh3.googleusercontent.com/-c8uMZmwGGXU/YHnn_zC6W4I/AAAAAAAAAII/TZ6NPiU52kQIBAwBE9X9yqGmzTXktMVDQCLcBGAsYHQ/w945-h600-p-k-no-nu/image.png)
 
 ## Mis Repositorios
-[Gestor de Tareas](https://github.com/JonathanLenzi/TareasWeb)1° repositorio -> Agenda tareas
-[Gestor de Productos](https://github.com/JonathanLenzi/GestionProductosEscritorio)2° repositorio -> Gestion de productos
-[Plataforma de Streaming](https://github.com/JonathanLenzi/streamingapp)3° repositorio -> Plataforma streaming
-
+[Gestor de Tareas](https://github.com/JonathanLenzi/TareasWeb) 1° Repositorio -> Agenda tareas
+[Gestor de Productos](https://github.com/JonathanLenzi/GestionProductosEscritorio) 2° Repositorio -> Gestion de productos
+[Plataforma de Streaming](https://github.com/JonathanLenzi/streamingapp) 3° Repositorio -> Plataforma streaming
+[Carrito de compras](https://github.com/JonathanLenzi/Carrito-React) 4° Repositorio -> Carroto de compras con React
 # Mis estadisticas en Github
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=JonathanLenzi&show_icons=true&theme=dark)](https://github.com/JonathanLenzi/github-readme-stats)
 
